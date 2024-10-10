@@ -1,0 +1,1 @@
+To run the program, open galton_board_matnadal.py with your terminal
